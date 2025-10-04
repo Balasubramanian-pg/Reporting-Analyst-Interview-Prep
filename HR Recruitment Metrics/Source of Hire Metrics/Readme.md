@@ -1,7 +1,3 @@
-Of course. Here is a breakdown of the key sourcing and channel effectiveness metrics, organized using your specified note system.
-
-***
-
 ### **Strategic Sourcing & Channel Optimization**
 
 These metrics guide where you invest your recruitment resources for the best return.
@@ -18,8 +14,6 @@ These metrics guide where you invest your recruitment resources for the best ret
 > [!NOTE]
 > **Source of Hire** (volume) provides a basic map of your hiring landscape, but it's just the starting point for deeper analysis into quality and cost.
 
----
-
 ### **High-Value Talent Channel Metrics**
 
 These metrics focus on the most cost-effective and high-quality sources of talent.
@@ -32,8 +26,6 @@ These metrics focus on the most cost-effective and high-quality sources of talen
 
 > [!CAUTION]
 > A low **Career Site Conversion Rate** means your employer brand and candidate experience are failing at the final hurdle. You are driving traffic, but not convincing visitors to apply. This is a major missed opportunity.
-
----
 
 ### **Tactical Channel Performance Metrics**
 
