@@ -1,7 +1,3 @@
-Of course. Here is a breakdown of the key candidate experience metrics, organized using your specified note system.
-
-***
-
 ### **Overall Experience & Brand Perception Metrics**
 
 These metrics measure the holistic candidate perception of your hiring process and employer brand.
@@ -18,8 +14,6 @@ These metrics measure the holistic candidate perception of your hiring process a
 > [!NOTE]
 > A high **Candidate Reapplication Rate** is a strong positive signal. It means your process was respectful enough that candidates are willing to go through it again, indicating strong brand loyalty and a positive experience.
 
----
-
 ### **Process Efficiency & Communication Metrics**
 
 These metrics reveal friction points and communication gaps within the hiring workflow.
@@ -35,8 +29,6 @@ These metrics reveal friction points and communication gaps within the hiring wo
 
 > [!TIP]
 > Audit your **Communication Frequency**. Candidates should never be in the dark. Proactive, transparent communication (even to say there's no update) builds trust and maintains engagement, reducing drop-off and improving satisfaction.
-
----
 
 ### **Critical Insight & Action Metrics**
 
