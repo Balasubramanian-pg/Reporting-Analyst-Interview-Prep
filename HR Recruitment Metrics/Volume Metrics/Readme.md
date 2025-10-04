@@ -1,7 +1,3 @@
-Of course. Here is a breakdown of these operational and volume-based recruitment metrics, organized using your specified note system.
-
-***
-
 ### **Funnel Health & Activity Volume**
 
 These metrics provide a basic pulse on the volume and initial flow of candidates through your hiring process.
@@ -14,8 +10,6 @@ These metrics provide a basic pulse on the volume and initial flow of candidates
 
 > [!NOTE]
 > **Interviews Conducted** and **Phone Screens Completed** measure the activity volume of your recruiting and hiring manager team. These are leading indicators for future hires but do not guarantee quality outcomes.
-
----
 
 ### **Operational Load & Process Metrics**
 
